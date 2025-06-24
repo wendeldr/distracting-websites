@@ -224,6 +224,7 @@
 *.grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion
 *.gsmarena.com
 *.guru3d.com
+*.algolia.com
 *.headphones.com
 *.heraldextra.com
 *.heraldsun.com.au
@@ -463,7 +464,6 @@
 *.omegle.com
 *.omgubuntu.co.uk
 *.opalstack.social
-*.openai.com
 *.opensea.io
 *.ozy.com
 *.pagesix.com
@@ -958,6 +958,7 @@ group.lt
 grwp24hodrefzvjjuccrkw3mjq4tzhaaq32amf33dzpmuxe7ilepcmad.onion
 gsmarena.com
 guru3d.com
+hn.algolia.com
 headphones.com
 heraldextra.com
 heraldsun.com.au
@@ -1197,7 +1198,6 @@ ohai.social
 omegle.com
 omgubuntu.co.uk
 opalstack.social
-openai.com
 opensea.io
 ozy.com
 pagesix.com
